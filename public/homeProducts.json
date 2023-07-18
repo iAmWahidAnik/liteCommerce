@@ -1,0 +1,74 @@
+[
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/mug-black-500x500.jpg",
+        "product_name": "Ceramic Mug In Black",
+        "price": 25.00,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/water-bottle-500x500.jpg",
+        "product_name": "Water Bottle In Charcoal",
+        "price": 28.00,
+        "sale_price": 27.00
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/rice-cooker-500x500.jpg",
+        "product_name": "Ceramic Rice Cooker",
+        "price": 65.00,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/9-500x500.jpg",
+        "product_name": "Memo Block In Gray",
+        "price": 20.00,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/8-500x500.jpg",
+        "product_name": "Resin Pen In Red",
+        "price": 40.00,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/6-500x500.jpg",
+        "product_name": "Ballpoint Pen In Black",
+        "price": 35.00,
+        "sale_price": 34.10
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/4-1-500x500.jpg",
+        "product_name": "Black Round Tray",
+        "price": 21.99,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://www.happythemes.com/demo/instock-pro/wp-content/uploads/sites/59/2020/01/3-1-500x500.jpg",
+        "product_name": "Make A Wish Matches",
+        "price": 7.99,
+        "sale_price": 5.99
+    },
+    {
+        "product_photo": "https://images.squarespace-cdn.com/content/v1/5420b7ede4b09b50eda07173/1575952782171-VQTJ3NPW8PDYWQOUGVU1/CDA_6972.jpg",
+        "product_name": "Ceramic Dual Color Mug",
+        "price": 24.99,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://ca-times.brightspotcdn.com/dims4/default/1beb636/2147483647/strip/true/crop/5568x3712+0+0/resize/1440x960!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F09%2F35%2F433af04e46978abe7f594f5c83c7%2Fla-photos-1staff-470887-fo-1030-ceramicists-eagles-mrt-004.jpg",
+        "product_name": "Three Cup",
+        "price": 16.99,
+        "sale_price": 12.99
+    },
+    {
+        "product_photo": "https://media.remodelista.com/wp-content/uploads/2015/03/fields/Industrial-Ceramic-Clock-West-Elm-Market-Remodelista.jpg",
+        "product_name": "Ceramic SClock",
+        "price": 39.99,
+        "sale_price": null
+    },
+    {
+        "product_photo": "https://cdn.britannica.com/71/71-050-FA6BE3ED/Yixing-Gongchun-ware-teapot-body-Hong-Kong-1513.jpg",
+        "product_name": "Ceramic Kettle",
+        "price": 42.99,
+        "sale_price": null
+    }
+]
