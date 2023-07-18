@@ -1,14 +1,11 @@
 // "use client"
 import LoadProducts from '@/utils/LoadProducts'
 import LoadOffer from '@/utils/LoadOffer'
-import ProductSection from '@/components/ProductSection'
 import Slider from '@/components/Slider'
 import ProductCard from '@/components/ProductCard'
 import Blogs from '@/components/Blogs'
-import BundleCard from '@/components/BundleCard'
 import Wave from 'react-wavify'
 import Image from 'next/image'
-import Link from 'next/link'
 
 export const metadata = {
   title: 'Lite Commerce | Home',
@@ -18,7 +15,7 @@ export const metadata = {
 export default async function Home() {
   const products = await LoadProducts();
 
-  const bundleOffer = await LoadOffer();
+  // const bundleOffer = await LoadOffer();
 
   return (
     <div className='mb-20'>
